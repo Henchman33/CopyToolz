@@ -2,6 +2,7 @@
 # CopyToolz - Advanced Network File Copy Utility
 # Author: Henchman33
 # Version: 2.0
+# DeepSeek Version
 # ============================================================================
 
 #=============================== MODULE LOADING ===============================
